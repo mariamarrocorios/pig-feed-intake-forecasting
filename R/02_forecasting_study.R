@@ -1,9 +1,8 @@
 # Forecasting daily feed intake of growing-finishing pigs with Random Forest:
 # aggregation scale (animal, pen, batch), predictor groups and forecast horizon.
 #
-# Code for: Which variables are needed to forecast pen-level feed intake in
-# growing-finishing pigs? A Random Forest study of aggregation scale, predictor
-# groups and forecast horizon (Marroco et al.).
+# Code for: Effects of aggregation scale, predictor groups and forecast horizon
+# on feed intake forecasting in growing-finishing pigs (Marroco et al.).
 #
 # Validation
 #   Part A: leave-one-batch-out on batches 1-3, all predictor groups.
