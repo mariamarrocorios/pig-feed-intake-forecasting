@@ -1,5 +1,7 @@
 # Feed intake forecasting in growing-finishing pigs
 
+[![DOI](https://zenodo.org/badge/1464046293.svg)](https://doi.org/10.5281/zenodo.24367704)
+
 R code for the paper:
 
 > Marroco M, Segalés J, Aguilar-Vega C, Guevara RD, Llonch P, Garcia-Morante B.
@@ -90,7 +92,7 @@ Results are written to `outputs/results/`: `tables/` (csv), `figures/` (png),
 If you use this code, please cite the paper above and this repository:
 
 > Marroco M. (2026). Feed intake forecasting in growing-finishing pigs (R code).
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Zenodo. https://doi.org/10.5281/zenodo.24367704
 
 ## License
 
