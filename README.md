@@ -5,8 +5,8 @@
 R code for the paper:
 
 > Marroco M, Segalés J, Aguilar-Vega C, Guevara RD, Llonch P, Garcia-Morante B.
-> *Which variables are needed to forecast pen-level feed intake in growing-finishing pigs?
-> A Random Forest study of aggregation scale, predictor groups and forecast horizon.*
+> *Effects of aggregation scale, predictor groups and forecast horizon on feed intake
+> forecasting in growing-finishing pigs.*
 > Smart Agricultural Technology (submitted).
 
 The code forecasts daily feed intake 1, 3 and 7 days ahead with Random Forests (RF)
